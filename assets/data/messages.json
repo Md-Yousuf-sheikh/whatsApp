@@ -1,0 +1,92 @@
+[
+  {
+    "id": 0,
+    "text": "dolor nulla reprehenderit quis cupidatat reprehenderit eu consectetur ut irure nisi tempor cupidatat tempor",
+    "createdAt": "2022-10-26T13:58:34.933Z",
+    "user": {
+      "id": "7d8d4a78-b09e-4f5d-885f-8afcf021cc91",
+      "name": "Raul"
+    }
+  },
+  {
+    "id": 1,
+    "text": "",
+    "createdAt": "2022-10-21T10:12:34.069Z",
+    "user": {
+      "id": "1afcd531-e028-4f17-aed1-06454ab02efe",
+      "name": "Alfred"
+    }
+  },
+  {
+    "id": 2,
+    "text": "laborum sunt velit deserunt exercitation sunt mollit laboris irure nisi excepteur cillum esse officia pariatur irure enim nostrud",
+    "createdAt": "2022-10-01T03:45:58.203Z",
+    "user": {
+      "id": "u1",
+      "name": "Ivan"
+    }
+  },
+  {
+    "id": 3,
+    "text": "commodo nulla incididunt duis nostrud est elit",
+    "createdAt": "2022-10-25T04:56:31.213Z",
+    "user": {
+      "id": "e3bada6d-e242-4e23-915b-1f82306cf217",
+      "name": "Pedro"
+    }
+  },
+  {
+    "id": 4,
+    "text": "in",
+    "createdAt": "2022-10-11T20:36:18.965Z",
+    "user": {
+      "id": "515d7791-29f5-44c8-8953-7d4d97165baf",
+      "name": "Clarence"
+    }
+  },
+  {
+    "id": 5,
+    "text": "irure",
+    "createdAt": "2022-10-07T11:38:53.750Z",
+    "user": {
+      "id": "u1",
+      "name": "Patrick"
+    }
+  },
+  {
+    "id": 6,
+    "text": "aliqua excepteur reprehenderit do duis occaecat do enim et velit aliqua",
+    "createdAt": "2022-10-05T21:50:34.093Z",
+    "user": {
+      "id": "937763d1-fd97-4a23-9472-a4ac563610b5",
+      "name": "Santos"
+    }
+  },
+  {
+    "id": 7,
+    "text": "duis tempor fugiat enim cillum anim do excepteur magna tempor occaecat",
+    "createdAt": "2022-10-21T16:10:39.228Z",
+    "user": {
+      "id": "84675367-648d-47bc-b8a4-cb69a65060f6",
+      "name": "Adam"
+    }
+  },
+  {
+    "id": 8,
+    "text": "proident",
+    "createdAt": "2022-10-10T12:08:56.943Z",
+    "user": {
+      "id": "u1",
+      "name": "Allan"
+    }
+  },
+  {
+    "id": 9,
+    "text": "deserunt cillum eiusmod occaecat duis consequat esse",
+    "createdAt": "2022-10-13T18:59:18.671Z",
+    "user": {
+      "id": "f925bea2-27d6-4b43-a70a-48be7468c1c4",
+      "name": "Emilio"
+    }
+  }
+]
